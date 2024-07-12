@@ -1,5 +1,5 @@
 # Before getting Download Raw "project template_APSSCD.PPT" file  in this repository
-# Problem statement : Develop a sentiment analysis model to classify restarunt reviews as positve or negative.
+# Problem statement : Develop a sentiment analysis model to classify restaurunt reviews as positve or negative.
 Description
  with the rapid growth of online platforms for sharing opinions and reviews,restarunts often rely
 #on the customer feedback to imporve their services and attract   a new customers.
